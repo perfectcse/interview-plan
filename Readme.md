@@ -15,6 +15,18 @@ This repository contains output-based JavaScript questions frequently asked in i
 ## 🎯 Goal
 Master JavaScript core concepts through output-based problem solving.
 
+Type Coercion
+Hoisting
+Scope
+Closure
+this
+Event Loop
+Prototype
+call apply bind
+currying
+debounce throttle
+polyfills
+shallow deep copy
 ---
 
 Author: Vishal
