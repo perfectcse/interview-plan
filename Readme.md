@@ -27,6 +27,6 @@ currying
 debounce throttle
 polyfills
 shallow deep copy
----
+-----------------
 
 Author: Vishal
